@@ -1,0 +1,11 @@
+{
+  "name": "sincroniza-costos",
+  "version": "1.0.0",
+  "description": "Aplicacion para sincronizar costos entre los dos almacenes de san andres, en base a las compras generadas por dia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aleflo_1996@outlook.com",
+  "license": "ISC"
+}
